@@ -13,3 +13,4 @@
 
 
 ### Резюме: 
+https://github.com/alinaarmut/resume/blob/main/Резюме.pdf
